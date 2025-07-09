@@ -1,0 +1,71 @@
+/* utility classes */
+.logolarge {
+  inline-size: 100%;
+  block-size: auto;
+  fill: var(--color-fore3);
+}
+
+.m0 {
+  margin-block-start: 0;
+}
+
+.wn {
+  font-weight: var(--font-weight-normal);
+}
+
+.wb {
+  font-weight: var(--font-weight-bold);
+}
+
+.wh {
+  font-weight: var(--font-weight-head);
+}
+
+.sub {
+  font-size: var(--fsize-3);
+
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: end;
+}
+
+button, a.button {
+  display: block;
+  inline-size: max-content;
+  min-inline-size: 8em;
+  font-weight: var(--font-weight-bold);
+  text-align: center;
+  text-decoration: none;
+  padding-block: 0.5em;
+  margin-inline: auto;
+  color: var(--color-back2);
+  background-color: var(--color-hint1);
+  border-radius: var(--border-radius1);
+
+  &:hover, &:active, &:focus {
+    background-color: var(--color-fore2);
+  }
+}
+
+.flexcenter {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  padding: 0;
+  margin-block: 3em;
+
+  & > * {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+}

@@ -1,0 +1,34 @@
+{
+  "name": "theanimalsays2025",
+  "version": "1.0.0",
+  "description": "The Animal Says... website",
+  "keywords": [
+    "publican",
+    "static",
+    "site",
+    "website"
+  ],
+  "homepage": "https://github.com/craigbuckler/theanimalsays2025#readme",
+  "bugs": {
+    "url": "https://github.com/craigbuckler/theanimalsays2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigbuckler/theanimalsays2025.git"
+  },
+  "license": "MIT",
+  "author": "Craig Buckler",
+  "type": "module",
+  "main": "publican.config.js",
+  "scripts": {
+    "build": "node --env-file=.env.dev --env-file=.env.prod ./publican.config.js",
+    "start": "node --env-file=.env.dev ./publican.config.js"
+  },
+  "dependencies": {
+    "esbuild": "0.25.6",
+    "publican": "0.10.2"
+  },
+  "devDependencies": {
+    "livelocalhost": "1.2.2"
+  }
+}
