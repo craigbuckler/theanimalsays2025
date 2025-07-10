@@ -1,31 +1,4 @@
 /* utility classes */
-.logolarge {
-  inline-size: 100%;
-  block-size: auto;
-  fill: var(--color-fore3);
-}
-
-.m0 {
-  margin-block-start: 0;
-}
-
-.wn {
-  font-weight: var(--font-weight-normal);
-}
-
-.wb {
-  font-weight: var(--font-weight-bold);
-}
-
-.wh {
-  font-weight: var(--font-weight-head);
-}
-
-.sub {
-  font-size: var(--fsize-3);
-
-}
-
 .center {
   text-align: center;
 }
@@ -36,14 +9,14 @@
 
 button, a.button {
   display: block;
-  inline-size: max-content;
-  min-inline-size: 8em;
+  inline-size: 100%;
   font-weight: var(--font-weight-bold);
   text-align: center;
+  text-wrap: balance;
   text-decoration: none;
-  padding-block: 0.5em;
+  padding: 0.5em;
   margin-inline: auto;
-  color: var(--color-back2);
+  color: var(--color-fore3);
   background-color: var(--color-hint1);
   border-radius: var(--border-radius1);
 
@@ -52,20 +25,31 @@ button, a.button {
   }
 }
 
-.flexcenter {
+.breadcrumb {
 
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1em;
-  padding: 0;
-  margin-block: 3em;
+  font-size: var(--fsize--2);
 
-  & > * {
+  ol, li, a {
+    text-decoration: none;
     list-style-type: none;
-    padding: 0;
     margin: 0;
+    padding: 0;
+  }
+
+  ol {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  li::after {
+    display: inline;
+    content: '\25b6';
+    font-size: 0.6em;
+    padding-inline: 0.8em;
+    vertical-align: 10%;
   }
 
 }

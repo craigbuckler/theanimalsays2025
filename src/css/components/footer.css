@@ -1,0 +1,33 @@
+body > footer {
+  position: sticky;
+  inset-block-start: 100vh;
+  padding-block: 2em;
+
+  p {
+    text-align: center;
+    margin-block-start: 0.5em;
+  }
+
+  a:link, a:visited {
+    text-decoration: none;
+  }
+}
+
+#top {
+  position: fixed;
+  inset-block-end: 1em;
+  inset-inline-end: 1em;
+  color: var(--color-hint1);
+  outline: 0 none;
+  opacity: 0.2;
+
+  &:hover, &:active, &:focus {
+    opacity: 0.6;
+  }
+
+  svg {
+    block-size: 1.8em;
+    inline-size: 1.8em;
+    fill: currentColor;
+  }
+}

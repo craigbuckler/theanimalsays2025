@@ -1,12 +1,10 @@
 ${ include('_partials/htmlhead.html') }
 ${ include('_partials/header.html') }
+${ include('_partials/hero.html') }
 
 <main>
 
-  <header>
-    ${ tacs.fn.nav.breadcrumb( data.link ) }
-    <h1>${ data.title }</h1>
-  </header>
+  ${ include('_partials/title.html') }
 
   ${ data.content }
 

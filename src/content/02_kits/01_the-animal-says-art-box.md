@@ -1,8 +1,10 @@
 ---
-title: The Animal Says... art box
+title: 'The Animal Says...' art box
 menu: false
-description: An art box using the characters found in The Animal Says... book by Debra Wellington.
-priority: 0.9
+description: An art box using the characters found in 'The Animal Says...' book by Debra Wellington.
+priority: 1.0
+hero: art-box-01.avif
+heroAlt: 'The Animal Says...' art box
 ---
 
 This thoughtfully curated art box is packed with a variety of animal themed activities, designed to engage young minds and let their creativity run WILD!
@@ -13,11 +15,13 @@ There's an A4 colouring book with all the animals, so your child can create thei
 
 A perfect birthday gift or fun activity for the holidays.
 
+For free UK delivery...
+
 <p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;12.99</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
-Delivery is free in the UK. Please [contact me](--ROOT--about/) about international orders.
+Please [contact me](--ROOT--about/) about international orders.
 
 [Download your **free animal facts page**](--ROOT--download/animal-facts.pdf) while you're waiting for delivery!
 
@@ -38,8 +42,18 @@ Delivery is free in the UK. Please [contact me](--ROOT--about/) about internatio
 
 Each project brings storytelling and art together in a playful hands on way, with no mess to clear up afterwards!
 
+
+## Order today!
+
+For free UK delivery...
+
 <p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;12.99</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
-Delivery is free in the UK. Please [contact me](--ROOT--about/) about international orders.
+Please [contact me](--ROOT--about/) about international orders.
+
+
+## More from Debra
+
+If you enjoyed **"The Animal Says..."** art box, you'll love the [book](--ROOT--books/the-animal-says/) and ["Grow Tall Sid"](--ROOT--books/grow-tall-sid/)...

@@ -45,23 +45,8 @@ publican.config.passThrough.add({ from: './src/media/images', to: './images/' })
 publican.config.passThrough.add({ from: './src/media/fonts', to: './fonts/' });
 publican.config.passThrough.add({ from: './src/media/download', to: './download/' });
 
-// determine post date from filename
-publican.config.processContent.add( fnHooks.processFileDate );
-
-// processContent hook: custom {{ filename }} code tabs
-publican.config.processContent.add( fnHooks.contentFilename );
-
 // processContent hook: replace ::: tags
 publican.config.processContent.add( fnHooks.htmlBlocks );
-
-// processRenderStart hook: change title, descriptions, etc.
-publican.config.processRenderStart.add( fnHooks.renderstartData );
-
-// processRenderStart hook: create tacs.tagScore Map
-publican.config.processRenderStart.add( fnHooks.renderstartTagScore );
-
-// processPreRender hook: determine related posts
-publican.config.processPreRender.add( fnHooks.prerenderRelated );
 
 // processPostRender hook: add <meta> tags
 publican.config.processPostRender.add( fnHooks.postrenderMeta );

@@ -2,7 +2,9 @@
 title: The Animal Says... Wear Me!
 menu: Clothes
 description: Children's clothes with Debra Wellington's artwork from The Animal Says book.
-priority: 1.0
+priority: 0.9
+hero: clothes-01.avif
+heroAlt: 'The Animal Says...' children's clothing
 ---
 
 This organic range of cotton clothing for little animal lovers, is inspired by the characters from my book "The Animal Says..." More than just clothing, they're storytellers. Each design has been chosen to spark fun and creativity in your child's world and available in a range of sizes and colours.

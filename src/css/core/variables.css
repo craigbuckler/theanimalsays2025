@@ -15,13 +15,11 @@
   --fsize-4: clamp(3.3569rem, 2.4986rem + 3.8147vw, 4.8828rem);
   --fsize-5: clamp(4.1962rem, 3.1233rem + 4.7684vw, 6.1035rem);
 
-  --header-height: 4rem;
   --layout-width: 58rem;
   --layout-margin: min(3vw, 3rem);
   --layout-list: 3;
   --layout-list-width: calc( (var(--layout-width) - var(--layout-margin) * var(--layout-list)) / var(--layout-list) );
   --main-width: min(var(--layout-width), 100% - (2 * var(--layout-margin)));
-  --header-fix-height: calc(var(--header-height) + var(--layout-margin));
 
   --color-fore1: #444;
   --color-fore2: #c70862;
@@ -32,4 +30,6 @@
   --color-back3: #1676a6;
 
   --color-hint1: #05965F;
+
+  --border-radius1: 0.4em;
 }

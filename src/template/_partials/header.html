@@ -1,26 +1,16 @@
 <header>
 
-  <p id="logo"><a href="${ tacs.root }" title="The Animal Says...">
-    <img src="--ROOT--images/the-animal-says.webp" alt="The Animal Says" width="255" height="217">
-  </a></p>
+  <div class="content">
+
+    <p><a href="${ tacs.root }" title="The Animal Says...">
+      <img src="--ROOT--images/the-animal-says.webp" alt="The Animal Says" width="255" height="217">
+    </a></p>
 
 
-  <nav class="menu">
+    <nav>
+      ${ tacs.fn.nav.menuMain( data.link ) }
+    </nav>
 
-    <details>
-
-      <summary class="menuicon" title="menu">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 512 512" width="24" height="24"><path d="M0 37h512H0h512v73H0V37Zm0 182h512H0h512v74H0v-74Zm512 183v73-73 73H0v-73h512Z"/></svg>
-      </summary>
-
-      <div class="menucontent">
-
-        ${ tacs.fn.nav.menuMain( data.link ) }
-
-      </div>
-
-    </details>
-
-  </nav>
+  </div>
 
 </header>

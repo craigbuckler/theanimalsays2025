@@ -23,7 +23,7 @@ No personal information is collected while you browse this website. Cookies and 
 
 ## Online ordering
 
-When ordering [children's books](--ROOT--books/) or [kits](--ROOT--kit/), I collect your name, email address, and delivery address to fulfill the order.
+When ordering [children's books](--ROOT--books/) or [kits](--ROOT--kits/), I collect your name, email address, and delivery address to fulfill the order.
 
 This information is only stored by PayPal and not copied to our own systems.
 
