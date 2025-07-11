@@ -3,6 +3,8 @@ title: Grow Tall Sid!
 menu: false
 description: 'Grow Tall Sid!' is a seed's journey to the tall flower he wants to be. For young readers aged 3 to 8.
 priority: 1.0
+product: Book
+price: 10.00
 hero: grow-tall-sid-01.avif
 heroAlt: Grow Tall Sid!
 heroWidth: 1800
@@ -19,7 +21,7 @@ The book is suitable for children aged 3 to 8 years old.
 
 **For free UK delivery...**
 
-<p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;10.00</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/LLMGHSLTU8UN2" class="button">Buy the "Grow Tall Sid" book and sunflower kit for &pound;17.50</a></p>
 
@@ -60,7 +62,7 @@ The vocabulary in the book has lots to tantalise your taste buds. Words Floss an
 
 For free UK delivery...
 
-<p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;10.00</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/LLMGHSLTU8UN2" class="button">Buy the "Grow Tall Sid" book and sunflower kit for &pound;17.50</a></p>
 

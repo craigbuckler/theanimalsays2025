@@ -3,6 +3,8 @@ title: 'The Animal Says...' art box
 menu: false
 description: An art box using the characters found in 'The Animal Says...' book by Debra Wellington.
 priority: 1.0
+product: Product
+price: 12.99
 hero: art-box-01.avif
 heroAlt: 'The Animal Says...' art box
 ---
@@ -17,7 +19,7 @@ A perfect birthday gift or fun activity for the holidays.
 
 **For free UK delivery...**
 
-<p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;12.99</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
@@ -47,7 +49,7 @@ Each project brings storytelling and art together in a playful hands on way, wit
 
 For free UK delivery...
 
-<p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;12.99</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 

@@ -3,6 +3,8 @@ title: The Animal Says...
 menu: false
 description: 'The Animal Says...' brings colourful animal illustrations to life with fun facts. For young readers aged 0 to 6.
 priority: 1.0
+product: Book
+price: 10.00
 hero: the-animal-says-01.avif
 heroAlt: The Animal Says...
 heroWidth: 1280
@@ -23,7 +25,7 @@ The book is suitable for children aged 0 to 6 years old.
 
 **For free UK delivery...**
 
-<p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;10.00</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
@@ -67,7 +69,7 @@ The charity Cued Speech UK filmed **"The Animal Says..."** using Cued Speech. Cu
 
 For free UK delivery...
 
-<p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;10.00</a></p>
+<p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;${ data.price }</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
