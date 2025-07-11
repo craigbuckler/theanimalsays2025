@@ -11,29 +11,29 @@ Bring the magic of [**"Grow Tall Sid"**](--ROOT--books/grow-tall-sid/) to life w
 
 This kit lets young readers sow the seeds, care for, and watch their very own sunflower grow – just like Sid!
 
-For free UK delivery...
+**For free UK delivery...**
 
 <p><a href="https://www.paypal.com/ncp/payment/U8KV76883QARA" class="button">Buy the "Grow your own Sid" sunflower kit for &pound;9.50</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/LLMGHSLTU8UN2" class="button">Buy the "Grow Tall Sid" book and sunflower kit for &pound;17.50</a></p>
 
-Please [contact me](--ROOT--about/) about international orders.
+[Download your **free life cycle colouring sheet**](--ROOT--download/life-cycle-colouring.pdf) while you're waiting for delivery!
 
-[Download your **free life cycle colouring page**](--ROOT--download/life-cycle-colouring.pdf) while you're waiting for delivery!
+Please [contact me](--ROOT--about/) about international orders.
 
 ## What's inside the sunflower kit?
 
-* packet of sunflower seeds
-* compost pellets, just add water
+* a packet of sunflower seeds
+* compost pellets -- just add water
 * planting instructions
-* letter from sid and buzz with tips on how to encourage bees and butterflies to your garden
-* a growth chart to track your sunflower’s journey
+* a letter from Sid and Buzz with tips on how to encourage bees and butterflies to your garden
+* a growth chart to track your sunflower's journey
 * colouring pages
 * coloured pencils
-* A4 sunflower life cycle colouring sheet
+* an A4 sunflower life cycle colouring sheet
 * sunflower stickers
 
-All provided in a cardboard box that you can put in your compost bin.
+The kit's provided in a cardboard box that you can put in your compost bin.
 
 These kits are perfect for little green fingers, introducing gardening and planting for your little ones. It connects beautifully with the themes of the book, making science and nature come alive.
 

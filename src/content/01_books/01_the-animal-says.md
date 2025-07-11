@@ -21,13 +21,13 @@ Since my book was published I've visited several schools to read to the children
 
 The book is suitable for children aged 0 to 6 years old.
 
-For free UK delivery...
+**For free UK delivery...**
 
 <p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;10.00</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
-[Download your **free animal facts page**](--ROOT--download/animal-facts.pdf) while you're waiting!
+[Download your **free animal facts**](--ROOT--download/animal-facts.pdf) while you're waiting!
 
 Please [contact me](--ROOT--about/) about international orders.
 

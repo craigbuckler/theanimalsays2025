@@ -17,13 +17,13 @@ Join Sid as he starts his journey as a seed and eventually becomes the tall flow
 
 The book is suitable for children aged 3 to 8 years old.
 
-For free UK delivery...
+**For free UK delivery...**
 
 <p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;10.00</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/LLMGHSLTU8UN2" class="button">Buy the "Grow Tall Sid" book and sunflower kit for &pound;17.50</a></p>
 
-[Download your **free life cycle colouring page**](--ROOT--download/life-cycle-colouring.pdf) while you're waiting for delivery!
+[Download your **free life cycle colouring sheet**](--ROOT--download/life-cycle-colouring.pdf) while you're waiting for delivery!
 
 Please [contact me](--ROOT--about/) about international orders.
 

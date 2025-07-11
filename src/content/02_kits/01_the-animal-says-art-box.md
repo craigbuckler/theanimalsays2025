@@ -15,15 +15,15 @@ There's an A4 colouring book with all the animals, so your child can create thei
 
 A perfect birthday gift or fun activity for the holidays.
 
-For free UK delivery...
+**For free UK delivery...**
 
 <p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;12.99</a></p>
 
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
-Please [contact me](--ROOT--about/) about international orders.
+[Download your **free animal facts**](--ROOT--download/animal-facts.pdf) while you're waiting!
 
-[Download your **free animal facts page**](--ROOT--download/animal-facts.pdf) while you're waiting for delivery!
+Please [contact me](--ROOT--about/) about international orders.
 
 
 ## What's inside the art box?

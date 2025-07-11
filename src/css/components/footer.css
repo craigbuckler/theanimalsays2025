@@ -9,6 +9,7 @@ body > footer {
   }
 
   a:link, a:visited {
+    white-space: nowrap;
     text-decoration: none;
   }
 }
