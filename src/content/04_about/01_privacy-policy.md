@@ -9,7 +9,7 @@ I am committed to protecting the privacy of customers, and site visitors. I prom
 
 * only use the information you give voluntarily
 * encrypt, transmit, and store your information in secure systems
-* only permit access to authorised Old Pines personnel
+* only permit access to authorised personnel
 * never pass your information to another party without your consent
 * not disclose any information we have gathered about you
 * correct inaccurate information when alerted
@@ -25,7 +25,7 @@ No personal information is collected while you browse this website. Cookies and 
 
 When ordering [children's books](--ROOT--books/) or [kits](--ROOT--kits/), I collect your name, email address, and delivery address to fulfill the order.
 
-This information is only stored by PayPal and not copied to our own systems.
+This information is only stored by PayPal and not copied to other systems.
 
 
 ## Information Access
@@ -40,4 +40,4 @@ This site links to other websites. We are not responsible for the content, accur
 
 ## Teemill Tech Ltd
 
-[Orders for clothes](--ROOT--clothes/) through Teemill have their own terms and conditions.
+[Orders for clothes](--ROOT--clothes/) through Teemill have separate [terms and conditions](https://teemill.com/terms-and-conditions/).

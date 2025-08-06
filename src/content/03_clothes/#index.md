@@ -13,7 +13,7 @@ This organic range of cotton clothing for little animal lovers, is inspired by t
 
 All clothing is sustainably made with GOTS certified soft organic cotton and printed using renewable energy in the UK in partnership with Teemill based on the Isle of Wight.
 
-Shipped in eco-friendly packaging, which your children can colour in afterwards. These colourful eco-friendly designs are perfect for playtime, storytime or wild adventures!
+Shipped in eco-friendly packaging, which your children can colour in afterwards. These colourful eco-friendly designs are perfect for playtime, story time or wild adventures!
 
 ## Designed with care
 

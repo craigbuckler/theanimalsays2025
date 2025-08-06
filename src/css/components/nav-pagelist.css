@@ -18,9 +18,10 @@ nav.pagelist {
   }
 
   a:hover, a:active, a:focus {
-    color: var(--color-fore3);
     background-color: var(--color-back2);
     border-color: var(--color-hint1);
+
+    * { color: var(--color-fore3); }
   }
 
   img {
