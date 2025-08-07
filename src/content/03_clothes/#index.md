@@ -1,7 +1,7 @@
 ---
 title: The Animal Says... Wear Me!
 menu: Clothes
-description: Children's clothes with artwork from Debra Wellington's book 'The Animal Says...'.
+description: Children's t-shirts with artwork from Debra Wellington's book 'The Animal Says...'.
 priority: 0.9
 hero: clothes-01.avif
 heroAlt: 'The Animal Says...' children's clothing
