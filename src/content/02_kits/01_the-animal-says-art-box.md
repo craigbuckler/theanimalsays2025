@@ -7,7 +7,11 @@ product: Product
 price: 12.99
 hero: art-box-01.avif
 heroAlt: 'The Animal Says...' art box
+heroWidth: 1920
+heroHeight: 768
 ---
+
+<p><a href="https://www.paypal.com/ncp/payment/K4A3SX8V4HYES" class="button">Buy "The Animal Says..." art box &pound;${ data.price }</a></p>
 
 This thoughtfully curated art box is packed with a variety of animal themed activities, designed to engage young minds and let their creativity run WILD!
 
@@ -16,6 +20,8 @@ Inside, your child will find colourful art supplies to create collage projects i
 There's an A4 colouring book with all the animals, so your child can create their own version of the **"The Animal Says..."** and design the front and back covers!
 
 A perfect birthday gift or fun activity for the holidays.
+
+<img src="--ROOT--images/art-box-02.avif" alt="The Animal Says... art box" width="1000" height="600">
 
 **For free UK delivery...**
 
@@ -43,6 +49,8 @@ Please [contact me](--ROOT--about/) about international orders.
 
 
 Each project brings storytelling and art together in a playful hands on way, with no mess to clear up afterwards!
+
+<img src="--ROOT--images/art-box-03.avif" alt="The Animal Says... art box" width="1000" height="1000">
 
 
 ## Order today!

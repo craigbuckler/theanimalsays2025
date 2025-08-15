@@ -13,11 +13,15 @@ heroHeight: 1360
 
 **Start small, grow tall!**
 
+<p><a href="https://www.paypal.com/ncp/payment/TNFWF3WQ8QE2J" class="button">Buy the "Grow Tall Sid" book for &pound;${ data.price }</a></p>
+
 Join Sid as he starts his journey as a seed and eventually becomes the tall flower he desires to be. Along the way Sid meets lots of friends including Buzz the bee and even a hedgehog.
 
 **"Grow Tall Sid!"** takes young readers on a captivating adventure through the life cycle of a sunflower. With colourful illustrations, the book aims to not only educate but also spark curiosity and wonder in nature.
 
 The book is suitable for children aged 3 to 8 years old.
+
+<img src="--ROOT--images/grow-tall-sid-02.avif" alt="reading the Grow Tall Sid book" width="1000" height="1200">
 
 **For free UK delivery...**
 
@@ -72,3 +76,5 @@ Please [contact me](--ROOT--about/) about international orders.
 ## More from Debra
 
 If you enjoyed **"Grow Tall Sid!"**, you'll love the [Grow your own Sid box](--ROOT--kits/grow-your-own-sid/) and ["The Animal Says..."](--ROOT--books/the-animal-says/)...
+
+<img src="--ROOT--images/debra-wellington-03.avif" alt="Debra Wellington" width="1000" height="1100">

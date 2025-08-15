@@ -13,13 +13,19 @@ heroHeight: 440
 
 **From Buzz to Zzz...**
 
+<p><a href="https://www.paypal.com/ncp/payment/VLUE8E4BHC3H8" class="button">Buy "The Animal Says..." book for &pound;${ data.price }</a></p>
+
 My first book **"The Animal Says..."** was published in 2021.
 
 This non-fiction book brings each of my colourful animal illustrations to life with fun facts for young readers. Your children will love making the animal sounds with you, stimulating physical, emotional and cognitive development.
 
+<img src="--ROOT--images/the-animal-says-02.avif" alt="reading The Animal Says... book" width="1000" height="1100">
+
 Since my book was published I've visited several schools to read to the children and to tell them all about how the book was published and how I created the colourful illustrations for the book. The book visits are fun and noisy as we all join in with the animal voices, Ribbit! Wheek! Roar!....
 
 **"The Animal Says..."** was a finalist in The Wishing Shelf Book Awards in 2022.
+
+<img src="--ROOT--images/book-award.avif" alt="The Wishing Shelf Book Awards in 2022" width="600" height="420">
 
 The book is suitable for children aged 0 to 6 years old.
 
@@ -79,3 +85,5 @@ Please [contact me](--ROOT--about/) about international orders.
 ## More from Debra
 
 If you enjoyed **"The Animal Says..."**, you'll love the [art box](--ROOT--kits/the-animal-says-art-box/) and ["Grow Tall Sid"](--ROOT--books/grow-tall-sid/)...
+
+<img src="--ROOT--images/debra-wellington-02.avif" alt="Debra Wellington" width="693" height="705">

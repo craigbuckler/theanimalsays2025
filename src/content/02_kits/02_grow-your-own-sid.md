@@ -7,11 +7,17 @@ product: Product
 price: 9.50
 hero: seed-kit-01.avif
 heroAlt: 'Grow Tall Sid!' sunflower seed kit
+heroWidth: 1500
+heroHeight: 600
 ---
+
+<p><a href="https://www.paypal.com/ncp/payment/U8KV76883QARA" class="button">Buy the "Grow your own Sid" sunflower kit for &pound;${ data.price }</a></p>
 
 Bring the magic of [**"Grow Tall Sid"**](--ROOT--books/grow-tall-sid/) to life with the "Grow your own Sid sunflower kit" -- a hands on gardening activity designed especially for curious kids and nature loving families.
 
 This kit lets young readers sow the seeds, care for, and watch their very own sunflower grow – just like Sid!
+
+<img src="--ROOT--images/seed-kit-02.avif" alt="Grow Tall Sid sunflower seed kit" width="1000" height="1006">
 
 **For free UK delivery...**
 
@@ -38,6 +44,8 @@ Please [contact me](--ROOT--about/) about international orders.
 The kit's provided in a cardboard box that you can put in your compost bin.
 
 These kits are perfect for little green fingers, introducing gardening and planting for your little ones. It connects beautifully with the themes of the book, making science and nature come alive.
+
+<img src="--ROOT--images/seed-kit-03.avif" alt="Grow Tall Sid sunflower seed kit" width="1000" height="1100">
 
 
 ## Order today!

@@ -5,6 +5,8 @@ description: Children's t-shirts with artwork from Debra Wellington's book 'The 
 priority: 0.9
 hero: clothes-01.avif
 heroAlt: 'The Animal Says...' children's T-shirts
+heroWidth: 1920
+heroHeight: 768
 ---
 
 This organic range of cotton T-shirts for little animal lovers, is inspired by the characters from my book "The Animal Says..." More than just clothing, they're storytellers. Each design has been chosen to spark fun and creativity in your child's world and available in a range of sizes and colours.
