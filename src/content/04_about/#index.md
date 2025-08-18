@@ -9,7 +9,7 @@ priority: 0.7
 
 <img src="--ROOT--images/debra-wellington.avif" alt="Debra Wellington" width="640" height="657">
 
-I'm a children's author and illustrator from Devon, in the UK. I bring books to life through hand painted collage. Every colourful creature in my books is created from painted, printed, and textured papers I've designed and made by hand -- one brushstroke, splatter or scribble at a time.
+I'm a children's author and illustrator from Devon, in the UK. I bring books to life through hand painted collage. Every colourful creature in [my books](--ROOT--books/) is created from painted, printed, and textured papers I've designed and made by hand -- one brushstroke, splatter or scribble at a time.
 
 Paper pieces are cut and assembled into a final scene, filling each book with colour and creativity.
 
