@@ -15,4 +15,4 @@ Welcome to the colourful world of [**"The Animal Says..."**](--ROOT--books/the-a
 
 You can also [order kits](--ROOT--kits/) and [T-shirts](--ROOT--clothes/) which complement the stories in the [books](--ROOT--books/).
 
-<img src="--ROOT--images/monkey.avif" alt="monkey: ooh, ohh!" width="800" height="600" class="noborder">
+<img src="--ROOT--images/sloth.avif" alt="sloth: zzz" width="800" height="600" class="noborder">

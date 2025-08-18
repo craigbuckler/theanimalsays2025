@@ -63,6 +63,8 @@ For free UK delivery...
 
 Please [contact me](--ROOT--about/) about international orders.
 
+<img src="--ROOT--images/monkey.avif" alt="monkey: ooh, ohh!" width="800" height="600" class="noborder">
+
 
 ## More from Debra
 

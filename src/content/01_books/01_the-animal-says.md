@@ -52,6 +52,8 @@ Please [contact me](--ROOT--about/) about international orders.
 
 > "I originally bought this book for my granddaughter who loves it, she especially likes the sloth. I then went on to buy some more as new baby gifts. The book is lovely for parents to read to their children and later for young readers."
 
+<img src="--ROOT--images/monkey.avif" alt="monkey: ooh, ohh!" width="800" height="600" class="noborder">
+
 
 ### Review by Busy Busy Learning
 
@@ -80,6 +82,8 @@ For free UK delivery...
 <p><a href="https://www.paypal.com/ncp/payment/Z4S7KSQRVJWA4" class="button">Buy "The Animal Says..." book and art box for &pound;20.99</a></p>
 
 Please [contact me](--ROOT--about/) about international orders.
+
+<img src="--ROOT--images/sloth.avif" alt="sloth: zzz" width="800" height="600" class="noborder">
 
 
 ## More from Debra
