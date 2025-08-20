@@ -1,3 +1,6 @@
+// <slide-show>
+import './lib/slide-show.js';
+
 // <youtube-lite>
 import './lib/youtube-lite.js';
 

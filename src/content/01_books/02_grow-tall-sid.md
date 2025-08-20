@@ -34,6 +34,16 @@ The book is suitable for children aged 3 to 8 years old.
 Please [contact me](--ROOT--about/) about international orders.
 
 
+## Excerpts from "Grow Tall Sid"
+
+<slide-show>
+  <img src="--ROOT--images/sid-page05.avif" alt="excerpt from Grow Tall Sid" width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/sid-page05-pic.avif" alt="excerpt from Grow Tall Sid" width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/sid-page10.avif" alt="excerpt from Grow Tall Sid" width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/sid-page10-pic.avif" alt="excerpt from Grow Tall Sid" width="800" height="600" class="noborder" />
+</slide-show>
+
+
 ## "Grow Tall Sid" reviews
 
 > “Grow Tall Sid! is a gem of a book."

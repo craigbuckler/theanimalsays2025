@@ -1,0 +1,28 @@
+/* <slide-show> component */
+slide-show {
+
+  position: relative;
+  display: flex;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin-block-start: 2em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+
+  &:not(:defined) {
+    display: block;
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  img {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    padding: 1em;
+    margin: 0;
+  }
+
+}

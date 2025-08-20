@@ -5,6 +5,7 @@
 @import url('./core/utility.css');
 
 @import url('./components/header.css');
+@import url('./components/slide-show.css');
 @import url('./components/nav-pagelist.css');
 @import url('./components/nav-nextback.css');
 @import url('./components/footer.css');

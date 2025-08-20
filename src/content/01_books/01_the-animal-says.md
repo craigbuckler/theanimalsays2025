@@ -40,6 +40,16 @@ The book is suitable for children aged 0 to 6 years old.
 Please [contact me](--ROOT--about/) about international orders.
 
 
+## Excerpts from "The Animal Says..."
+
+<slide-show>
+  <img src="--ROOT--images/lion-page.avif" alt="excerpt from The Animal Says..." width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/lion.avif" alt="excerpt from The Animal Says..." width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/frog-page.avif" alt="excerpt from The Animal Says..." width="800" height="600" class="noborder" />
+  <img src="--ROOT--images/frog.avif" alt="excerpt from The Animal Says..." width="800" height="600" class="noborder" />
+</slide-show>
+
+
 ## "The Animal Says..." reviews
 
 > "My two toddler grandsons are captivated by the pictures in the book and love joining in making the animal noises. I can thoroughly recommend the book to get children interested in reading and discovery."
